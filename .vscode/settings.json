@@ -1,5 +1,7 @@
 {
     "html.format.indentInnerHtml": true,
     "html.format.indentHandlebars": true,
-    "html.format.templating": true
+    "html.format.templating": true,
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
 }

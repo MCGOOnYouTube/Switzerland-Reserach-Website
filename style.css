@@ -9,3 +9,7 @@ html {
 .image {
     border-style: solid;
 }
+
+.page {
+    font-weight: bold;
+}
