@@ -1,15 +1,20 @@
 html {
-    font-family: 'Montserrat', sans-serif;
-}
-
-html {
-    background-image: radial-gradient(indianred,#ffe4b2);
+  font-family: "Montserrat", sans-serif;
+  background-image: radial-gradient(indianred, #ffe4b2);
 }
 
 .image {
-    border-style: solid;
+  border-style: solid;
+}
+
+.image:hover {
+  box-shadow: 5px 5px 6px rgba(41, 132, 94, 1);
+}
+
+.icon {
+  border-radius: 5px;
 }
 
 .page {
-    font-weight: bold;
+  font-weight: bold;
 }
