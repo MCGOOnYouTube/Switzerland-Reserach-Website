@@ -5,6 +5,7 @@ html {
 
 .image {
     border-style: solid;
+    border-radius: 100px;
 }
 
 .image:hover {
